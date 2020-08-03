@@ -1,5 +1,6 @@
 The project attempts to give the estimated price of a car based on the real time data on the Finnish market.
- Process:
+
+Process:
 1. Acquiring the data from the user (Make, Model, Year,Mileage, Fuel Type, Engine size) 
 2. Aggregate (crawl) the data from the local Finnish car sale platform
 3. Process the collected data
